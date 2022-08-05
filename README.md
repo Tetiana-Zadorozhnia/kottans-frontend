@@ -1,4 +1,4 @@
-### Hello. My name is Tetiana. 
+### Hello. My name is Tetiana
 ### I  want to thank you for this course. 
 ### Before, I started to study something in frontend, but it was not systematic. And as a result, I did not get extensive knowledge. 
 ### Now I hope to get knowledge step by step.
@@ -6,12 +6,12 @@
 ### I liked information about git - it was difficult, but interesting. In future, I want to understand more and apply it in practice.
 
 ## *Introduction to Git and GitHub*
- + ![1](../screenshot/1.png)
- + ![2](../screenshot/2.png)
+ + ![1](./screenshot/1.png)
+ + ![2](./screenshot/2.png)
   
 ## *learngitbranching.js.org:*
 ### Основи: Introduction Sequence
- + ![3](../screenshot/3.png)
+ + ![3](./screenshot/3.png)
 
 ### Віддалені репозиторії: Push & Pull -- віддалені репозиторії в Git!
- + ![4](../screenshot/4.png)
+ + ![4](./screenshot/4.png)
