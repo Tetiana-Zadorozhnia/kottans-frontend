@@ -43,19 +43,20 @@ I liked information about git - it was difficult, but interesting. In future, I 
 ***
 
  ## **1. Linux and HTTP**
+
 It was my first introduction to Linux operating system. The information was interesting. I got to know the basic Linux commands. The interactive form made it easy to remember them
- ### 1.***Linux Survival (4 modules)***
+ ### ***1. Linux Survival (4 modules)***
  
    <details>
   <summary>Screenshot</summary>
-  <img src="./screenshot/5.png">
-  <img src="./screenshot/6.png">
-  <img src="./screenshot/7.png">
-  <img src="./screenshot/8.png">
+  <img src="./task_linux_cli/Linux_quiz_1.png">
+  <img src="./task_linux_cli/Linux_quiz_2.png">
+  <img src="./task_linux_cli/Linux_quiz_3.png">
+  <img src="./task_linux_cli/Linux_quiz_4.png">
 </details>
 
  ### ***2. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)***
   
-### ***3.[HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)***
+### ***3. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)***
 
 As for me, HTTP is quite difficult topic to understand, but very important. I learned a lot of HyperText Transfer Protocol, but I want to come back to this topic later
