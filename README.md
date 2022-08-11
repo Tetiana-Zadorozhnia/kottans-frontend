@@ -12,7 +12,7 @@ Now I hope to get knowledge step by step
 
 # ***Stage 0. Self-Study***
 ## **General**
-- [X] Git та GitHub
+- [X] Git and GitHub
 - [X] Linux CLI, and HTTP
 - [X] Git Collaboration
 ## **Front-End Basics**
@@ -22,7 +22,7 @@ Now I hope to get knowledge step by step
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
 ***
-## **0. Git та GitHub**
+## **0. Git and GitHub**
 I liked information about git - it was difficult, but interesting. In future, I want to understand more and apply it in practice.
 
 ### ***1. Introduction to Git and GitHub (week 1-2)***
