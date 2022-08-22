@@ -99,11 +99,11 @@ I will use this web service in the future. Since, it opens up wide possibilities
 
 
 ## **3. Intro to HTML and CSS**
-I already knew a bit about HTML and CSS. However, it was useful to refresh knowledge.
+I knew something about HTML and CSS before. However, it was useful to refresh the knowledge.
 
-I enjoyed the lessons on Codecademy. I was surprised why I didn't find these lessons earlier. Combining theory with practice is great.
+I enjoyed the lessons on Codecademy. I was surprised why I didn't find these lessons earlier. It's great to immediately combine theory with practice.
 
-I will certainly use HTML and CSS in the future.
+I will definitely use HTML and CSS in the future
 ### ***1. [Intro to HTML & CSS (1week_and_2week)](https://www.coursera.org/learn/html-css-javascript-for-web-developers)***
 
 <details>
