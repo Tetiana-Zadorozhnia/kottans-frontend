@@ -7,7 +7,7 @@ I  want to thank you for this course.
 Before, I started to study something in frontend, but it was not systematic. And as a result, I did not get extensive knowledge. 
 
 
-Now I hope to get knowledge step by step
+Now I hope to get knowledge step by step.
 ***
 
 # ***Stage 0. Self-Study***
@@ -33,7 +33,7 @@ Now I hope to get knowledge step by step
 - [ ] Friends App - real project!
 ***
 ## **0. Git and GitHub**
-I liked information about git - it was difficult, but interesting. In the future, I want to understand more and apply it in practice.
+I liked information about Git - it was difficult, but interesting. In the future, I want to understand more and apply it in practice.
 
 ### ***1. [Introduction to Git and GitHub (1week_and_2week)](https://www.coursera.org/learn/introduction-git-github)***
  <details>
@@ -53,7 +53,7 @@ I liked information about git - it was difficult, but interesting. In the future
 ***
 
  ## **1. Linux CLI, and HTTP**
-It was my first introduction to Linux operating system. The information was interesting. I got to know the basic Linux commands. The interactive form made it easy to remember them
+It was my first introduction to Linux operating system. The information was interesting. I got to know the basic Linux commands. The interactive form made it easy to remember them.
 
  ### ***1. [Linux Survival (4 modules)](https://linuxsurvival.com/linux-tutorial-introduction/)***
  
@@ -69,7 +69,7 @@ It was my first introduction to Linux operating system. The information was inte
   
 #### ***3. [HTTP: Протокол, який повинен розуміти кожний веб-розробник - Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)***
 
-As for me, HTTP is quite difficult topic to understand, but very important. I learned a lot of HyperText Transfer Protocol, but I want to come back to this topic later
+As for me, HTTP is quite difficult topic to understand, but very important. I learned a lot of HyperText Transfer Protocol, but I want to come back to this topic later.
 ***
 ## **2. Git Collaboration**
 Before, I didn't use GitHub. It seemed a complicated web service. 
@@ -131,7 +131,7 @@ I was already a little familiar with Flexbox. A few months ago, I watched these 
 I knew almost nothing about Grid. So the video helped me understand the material better. And the game Grid Garden turned out to be quite interesting.
 
 ### ***1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)***
-### ***2. [RFLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)***
+### ***2. [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)***
 ### ***3. [Flexbox Froggy](http://flexboxfroggy.com/#uk)***
  <details>
   <summary>Screenshot</summary>
