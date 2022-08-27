@@ -17,7 +17,7 @@ Now I hope to get knowledge step by step
 - [X] Git Collaboration
 ## **Front-End Basics**
 - [X] Intro to HTML & CSS
-- [ ] Responsive Web Design
+- [X] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
@@ -97,7 +97,6 @@ I will use this web service in the future. Since, it opens up wide possibilities
 
 ***
 
-
 ## **3. Intro to HTML and CSS**
 I knew something about HTML and CSS before. However, it was useful to refresh the knowledge.
 
@@ -118,4 +117,30 @@ I will definitely use HTML and CSS in the future
 <details>
   <summary>Screenshot</summary>
   <img src="./task_html_css_intro/HTML_and_CSS.png">
+</details>
+
+***
+
+## **4. Responsive Web Design**
+I learned that adaptive Web Design plays an important role. Аnd today it is impossible to do without it.
+
+Flexbox and Grid are technologies that help in adaptive Web Design
+
+I was already a little familiar with Flexbox. A few months ago, I watched these videos and played the game Flexbox Froggy.
+
+I knew almost nothing about Grid. So the video helped me understand the material better. And the game Grid Garden turned out to be quite interesting.
+
+### ***1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)***
+### ***2. [RFLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)***
+### ***3. [Flexbox Froggy](http://flexboxfroggy.com/#uk)***
+ <details>
+  <summary>Screenshot</summary>
+  <img src="./task_responsive_web_design/flexbox_froggy.png">
+</details>
+
+### ***4. [CSS Grid Layout](https://www.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm&ab_channel=%D0%A4%D1%80%D1%96%D0%BB%D0%B0%D0%BD%D1%81%D0%B5%D1%80%D0%BF%D0%BE%D0%B6%D0%B8%D1%82%D1%82%D1%8E)***
+### ***5. [Grid Garden](http://cssgridgarden.com/)***
+ <details>
+  <summary>Screenshot</summary>
+  <img src="./task_responsive_web_design/grid_garden.png">
 </details>
