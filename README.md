@@ -18,8 +18,8 @@ Now I hope to get knowledge step by step.
 ## **Front-End Basics**
 - [X] Intro to HTML & CSS
 - [X] Responsive Web Design
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
+- [X] HTML & CSS Practice
+- [X] JavaScript Basics
 - [ ] Document Object Model - practice
   
 
@@ -144,3 +144,12 @@ I knew almost nothing about Grid. So the video helped me understand the material
   <summary>Screenshot</summary>
   <img src="./task_responsive_web_design/grid_garden.png">
 </details>
+
+
+***
+## **5. HTML & CSS Practice**
+
+##  [Demo](https://tetiana2304.github.io/Popup/) | [Files](https://github.com/Tetiana2304/Popup/)
+
+***
+## **6. JS Basics**
