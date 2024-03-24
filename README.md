@@ -131,7 +131,7 @@ I was already a little familiar with Flexbox. A few months ago, I watched these 
 I knew almost nothing about Grid. So the video helped me understand the material better. And the game Grid Garden turned out to be quite interesting.
 
 ### ***1. [Responsive web design basics](https://web.dev/i18n/en/responsive-web-design-basics/)***
-### ***2. [FLEXBOX](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)***
+### ***2. [Flexbox](https://www.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x)***
 ### ***3. [Flexbox Froggy](http://flexboxfroggy.com/#uk)***
  <details>
   <summary>Screenshot</summary>
@@ -149,7 +149,24 @@ I knew almost nothing about Grid. So the video helped me understand the material
 ***
 ## **5. HTML & CSS Practice**
 
-##  [Demo](https://tetiana2304.github.io/Popup/) | [Files](https://github.com/Tetiana2304/Popup/)
+##  [Demo](https://tetiana-zadorozhnia.github.io/Popup/) | [Files](https://github.com/Tetiana2304/Popup/)
 
 ***
 ## **6. JS Basics**
+
+## ***1. [Introduction to Git and GitHub (1week_and_2week)](https://www.coursera.org/learn/introduction-git-github)***
+ <details>
+  <summary>Screenshot</summary>
+  <img src="./screenshot/1.png">
+  <img src="./screenshot/2.png">
+</details>
+
+### ***2. [learngitbranching.js.org](https://learngitbranching.js.org/?locale=en_US)***
+
+ <details>
+  <summary>Screenshot</summary>
+  <img src="./screenshot/3.png">
+   <img src="./screenshot/4.png">
+</details>
+
+***
