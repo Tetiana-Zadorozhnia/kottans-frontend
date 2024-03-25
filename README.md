@@ -149,7 +149,7 @@ I knew almost nothing about Grid. So the video helped me understand the material
 ***
 ## **5. HTML & CSS Practice**
 
-##  [Demo](https://tetiana-zadorozhnia.github.io/Pop-up/) | [Files](https://tetiana-zadorozhnia.github.io/Pop-up/)
+##  [Demo](https://tetiana-zadorozhnia.github.io/Pop-up/) | [Files](https://github.com/Tetiana-Zadorozhnia/Pop-up)
 
 ***
 ## **6. JS Basics**
