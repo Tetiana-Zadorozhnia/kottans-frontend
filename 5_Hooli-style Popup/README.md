@@ -1,2 +1,2 @@
-# Popup 
-### [DEMO](https://tetiana-zadorozhnia.github.io/Popup/)
+# Pop-up 
+### [DEMO](https://tetiana-zadorozhnia.github.io/Pop-up/)
